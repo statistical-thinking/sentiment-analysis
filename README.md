@@ -1,5 +1,5 @@
 # Sentiment Analysis
-Tool zur Sentiment Analysis von Textdokumenten und Social Media Beiträgen im zeitlichen Verlauf.
+Tool zur Sentiment Analysis von Textdokumenten und Social Media Beiträgen im zeitlichen Verlauf
 
 # Autoren
 Prof. Dr. Dennis Klinkhammer
