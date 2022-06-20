@@ -82,8 +82,8 @@ nrc_word_counts
 plot3 <- ggplot(data = nrc_word_counts, mapping = aes(x = line, y = n)) +
   geom_smooth() + 
   xlab("document (line)") + 
-  ylab("sentiment (mean)") +
-  ggtitle("Intertemporal Use of Sentiments (Mean)")
+  ylab("sentiment (conditional mean)") +
+  ggtitle("Intertemporal Use of Sentiments (Conditional Mean)")
 
 #####################################
 #  S E N T I M E N T V E R L A U F  #
