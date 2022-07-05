@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Sentiment Analysis (Tutorial)
 Tool zur Sentiment Analysis von Textdokumenten und Social Media Beiträgen im zeitlichen Verlauf
 
 # Autoren
