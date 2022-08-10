@@ -16,7 +16,7 @@ library(gridExtra)    # Visualisierung
 # Textbibliotheken einmalig installieren
 library(textdata)     # Textverarbeitung
 get_sentiments("nrc") # NRC Bibliothek
-get_sentiment("bing") # BING Bibliothek
+get_sentiments("bing") # BING Bibliothek
 
 ###################################
 #   V O R B E R E I T U N G E N   #
